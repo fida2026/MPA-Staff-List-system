@@ -1,3 +1,4 @@
+direct link https://ai.studio/apps/a2b296a8-cd7c-4a62-baf8-0b0502694fc0
 # ComplianceCore — Staff & Renewal Registry
 
 > Enterprise People Operations & Legal Contract Renewal Compliance Console with automated mailto routing, broadcast station headcount matrix, cryptographic audit logging, and contract document vault.
