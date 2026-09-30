@@ -1,0 +1,8 @@
+{
+  "name": "Remix ComplianceCore Staff \u0026 Renewal Registry",
+  "description": "Enterprise People Operations \u0026 Legal Contract Renewal Compliance Console with automated mailto routing, station headcount matrix, and audit PDF vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
